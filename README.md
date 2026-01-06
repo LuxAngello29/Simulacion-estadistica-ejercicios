@@ -9,7 +9,7 @@ Al final de **cada documento** se incluye un **apartado de código** para garant
 
 Los `.Rmd` de este repositorio fueron construidos con una estructura de apoyo (carpetas como `portada/`, `bib/` y archivo `.csl` en el YAML) para generar un PDF con formato académico.
 
-Si deseas compilar el `.Rmd` en tu computador y **no cuentas con esas carpetas/archivos**, debes **comentar o eliminar** en el YAML las líneas relacionadas con lo indicado anteriormente o solo usar los archivos .Rmd del chunk donde se llaman a las librerías en adelante.
+Si deseas compilar el `.Rmd` en tu computador y **no cuentas con esas carpetas/archivos**, debes **comentar o eliminar** en el YAML las líneas relacionadas con (includes/bibliography/csl) o solo usar los archivos .Rmd del chunk donde se llaman a las librerías en adelante.
 
 - **R versión 4.5.1**
 
