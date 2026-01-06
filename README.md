@@ -18,12 +18,12 @@ Si deseas compilar el `.Rmd` en tu computador y **no cuentas con esas carpetas/a
 - **Documento 1 — Parcial 1 (Simulación Estadística)**
   - Ejercicios independientes, explicación detallada y código reproducible al final.
   - PDF: [docs/Parcial1.pdf](docs/Parcial1.pdf)
-  - Rmd: [docs/Parcial1.Rmd](docs/Parcial1.pdf)
+  - Rmd: [docs/Parcial1.Rmd](docs/Parcial1.Rmd)
 
 - **Documento 2 — Parcial 2 (Simulación Estadística)**
   - Ejercicios independientes, explicación detallada y código reproducible al final.
   - PDF: [docs/Parcial2.pdf](docs/Parcial2.pdf)
-  - Rmd: [docs/Parcial2.Rmd](docs/Parcial2.pdf)
+  - Rmd: [docs/Parcial2.Rmd](docs/Parcial2.Rmd)
 
 
 ## Reproducibilidad
