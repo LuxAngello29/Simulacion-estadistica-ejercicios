@@ -9,9 +9,9 @@ Al final de **cada documento** se incluye un **apartado de código** para garant
 
 Los `.Rmd` de este repositorio fueron construidos con una estructura de apoyo (carpetas como `portada/`, `bib/` y archivo `.csl` en el YAML) para generar un PDF con formato académico.
 
-Si deseas compilar el `.Rmd` en tu computador y **no cuentas con esas carpetas/archivos**, debes **comentar o eliminar** en el YAML las líneas relacionadas con (includes/bibliography/csl) o ejecutar únicamente el código a partir del chunk donde se cargan las librerías
+Si deseas compilar el `.Rmd` en tu computador y **no cuentas con esas carpetas/archivos**, debes **comentar o eliminar** en el YAML las líneas relacionadas con (`includes` / `bibliography` / `csl`) o ejecutar únicamente el código a partir del chunk donde se cargan las librerías
 
-- **R versión 4.5.1**
+- **R versión 4.5.1** (recomendada)
 
 ## Documentos
 
@@ -30,7 +30,7 @@ Si deseas compilar el `.Rmd` en tu computador y **no cuentas con esas carpetas/a
 
 Para ejecutar el código incluido en cada documento:
 
-1. Instala **R 4.5.1**
+1. Instala **R 4.5.1** 
 2. Abre el apartado final de **código** del documento correspondiente
 3. Ejecuta el script en el entorno local (R / RStudio) usando la misma versión indicada
 
